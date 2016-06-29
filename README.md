@@ -22,3 +22,4 @@ Once there, students need to sign on using their first and last name and the pas
 2. Your lecture should be structured in blocks of 30-60mins of lecturing or guided practice followed by 60-120 minutes of hands on work.
 3. During hands-on time, you must periodically ask online students to share their screen with you in order to review their work.
 4. Class must be conducted in such a manner that online students can always hear you. Under no circumstances should you mute your microphone while having a conversation in the classroom. The hybrid learning experience must be as close to identical to the in-person classroom experience as possible.
+5. Keep your desktop workplace professional.
