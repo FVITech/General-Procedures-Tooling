@@ -23,3 +23,4 @@ Once there, students need to sign on using their first and last name and the pas
 3. During hands-on time, you must periodically ask online students to share their screen with you in order to review their work.
 4. Class must be conducted in such a manner that online students can always hear you. Under no circumstances should you mute your microphone while having a conversation in the classroom. The hybrid learning experience must be as close to identical to the in-person classroom experience as possible.
 5. Keep your desktop workplace professional.
+6. During lecture or guided practice time, try to deliver continuous instruction. Try to ensure there are no pauses in communication longer than 10 seconds. The delivery of instruction should be seamless, as in an asynchronous lesson.
