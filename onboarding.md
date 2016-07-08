@@ -2,8 +2,9 @@
 
 1. Ensure you have completed the general on-boarding procedure.
 2. Develop a sample lesson **which is related to the subject matter you teach** for use during your online live training session. Make sure you have supporting materials (such as powerpoint slides, pictures, code samples, etc.). This material will be used during your **Mock Lesson**.
-3. Set a two-hour meeting with your program director to go over training for online delivery of instructional material.
-4. During your training, you must cover the following items with assistance from your program director:
+3. Review the [Adobe_Guide_for_Participants.pdf](Adobe Connect Guide for Participants).
+4. Set a two-hour meeting with your program director to go over training for online delivery of instructional material.
+5. During your training, you must cover the following items with assistance from your program director:
   1. Access the adobe connect portal through http://fvi.adobeconnect.com
   2. Install the Adobe Connect Plugin on your instructional laptop
   3. Host an online live meeting on your instructional computer
@@ -27,6 +28,6 @@
     3. Now you are free to start the training session you prepared in advance. You will deliver this session while your program director pretends to be a student and follows along.
     4. You will be evaluated on your ability to follow the Usage Policies for Instructors.
     5. Your program director may request that you complete additional mock lessons in order to cement the learning process and good habits of Online Live Instruction.
-5. Set a follow-up meeting with your program director to discuss additional student resources.
+6. Set a follow-up meeting with your program director to discuss additional student resources.
   1. MA-Online instructors will need a training session on the **Evolve platform.**
   2. Technology Instructors will need a very brief training session on how to access ITPro.TV, TeamTreehouse, Packt Library and the FVI Virtual Private Server for use in teaching.
