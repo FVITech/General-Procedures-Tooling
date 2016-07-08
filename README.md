@@ -18,9 +18,11 @@ Once there, students need to sign on using their first and last name and the pas
 
 ##Usage Policies for Instructors
 
-1. Enable the microphones for all students unless they consistently fail to manage this privilege effectively.
-2. Your lecture should be structured in blocks of 30-60mins of lecturing or guided practice followed by 60-120 minutes of hands on work.
+1. Enable the microphones for all students. Only make exceptions to this if one student fails to manage this privilege effectively.
+2. Your lecture should be structured in blocks of 30-60mins of lecturing or guided practice followed by 60-120 minutes of hands on work (where applicable). The main concern is not lecturing for extended periods of time. Four hour lectures are almost impossible for students
+to follow.
 3. During hands-on time, you must periodically ask online students to share their screen with you in order to review their work.
-4. Class must be conducted in such a manner that online students can always hear you. Under no circumstances should you mute your microphone while having a conversation in the classroom. The hybrid learning experience must be as close to identical to the in-person classroom experience as possible.
+4. Class must be conducted in such a manner that online students can always hear you. If you are teaching hybrid delivery (some students are in class and others are attending online) then you should *never* mute your microphone while having a conversation in the classroom. The hybrid learning experience must be as close to identical to the in-person classroom experience as possible.
 5. Keep your desktop workplace professional.
-6. During lecture or guided practice time, try to deliver continuous instruction. Try to ensure there are no pauses in communication longer than 10 seconds. The delivery of instruction should be seamless, as in an asynchronous lesson.
+6. During lecture or guided practice time, try to deliver continuous instruction. Try to ensure there are no pauses in communication longer than 15 seconds unless an in-person student is asking a question. The delivery of instruction should be seamless, as close as possible to the way it works in an asynchronous lesson.
+7. During hybrid delivery, if an in-person student asks a question, then re-state the question before answering it for the benefit of online students.
