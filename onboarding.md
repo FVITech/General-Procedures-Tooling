@@ -2,7 +2,7 @@
 
 1. Ensure you have completed the general on-boarding procedure.
 2. Develop a sample lesson **which is related to the subject matter you teach** for use during your online live training session. Make sure you have supporting materials (such as powerpoint slides, pictures, code samples, etc.). This material will be used during your **Mock Lesson**.
-3. Review the Adobe Connect Guide for Participants https://github.com/FVITech/General-Procedures-Tooling/blob/master/Adobe_Guide_for_Participants.pdf.
+3. Review the Adobe Connect Guide for Participants: https://github.com/FVITech/General-Procedures-Tooling/blob/master/Adobe_Guide_for_Participants.pdf.
 4. Set a two-hour meeting with your program director to go over training for online delivery of instructional material.
 5. During your training, you must cover the following items with assistance from your program director:
   1. Access the adobe connect portal through http://fvi.adobeconnect.com
