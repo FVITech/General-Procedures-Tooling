@@ -11,7 +11,8 @@
     1. Observe the 2-step process required for a student to log in. This process is also detailed in the [General Procedures and Tooling for Online Instructors and Students](README.md) document
     2. Enable your program director's microphone by right clicking on his/her name
   5. Test various features of Adobe Connect with the help of your program director:
-    1. Ensure you and your program director can communicate well through audio, by going to different physical locations and exchanging actual sentences. Audio quality is difficult to gauge without real conversation.
+    1. Become familiar with the interface. Discuss the concepts of Pods and layouts with your program director. Enable and disable your video and audio by using the icons in the top toolbar.
+    2. Ensure you and your program director can communicate well through audio. Go to different physical locations and exchange actual sentences with your program director. Audio quality is difficult to gauge without real conversation.
     2. Share your screen with your program director and make sure he/she can read a power point slide on your screen
     3. Open notepad and type a sentence, ensure your program director can read it. You may need to adjust the font size of notepad by clicking format, then font.
     4. Have your program director share his/her screen:
@@ -26,4 +27,6 @@
     3. Now you are free to start the training session you prepared in advance. You will deliver this session while your program director pretends to be a student and follows along.
     4. You will be evaluated on your ability to follow the Usage Policies for Instructors.
     5. Your program director may request that you complete additional mock lessons in order to cement the learning process and good habits of Online Live Instruction.
-5. Set a follow-up meeting with your program director to discuss additional student resources. MA-Online instructors will need a training session on the Evolve platform. Technology Instructors will need a very brief training session on how to access ITPro.TV, TeamTreehouse, Packt Library and the FVI Virtual Private Server for use in teaching.
+5. Set a follow-up meeting with your program director to discuss additional student resources.
+  1. MA-Online instructors will need a training session on the **Evolve platform.**
+  2. Technology Instructors will need a very brief training session on how to access ITPro.TV, TeamTreehouse, Packt Library and the FVI Virtual Private Server for use in teaching.
